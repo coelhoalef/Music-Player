@@ -72,7 +72,7 @@ function updateBar() {
     let time = document.querySelector('.start');
     time.textContent = secondsMinutes(Math.floor(music.currentTime));
     let durantionMusic = document.querySelector('.end')
-    durantionMusic.textContent = '-' +secondsMinutes(Math.floor(music.duration - music.currentTime));
+    durantionMusic.textContent = secondsMinutes(Math.floor(music.duration - music.currentTime));
     
 }
 
