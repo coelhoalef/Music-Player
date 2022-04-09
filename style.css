@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(./img/musicplayer-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.507);
+    height: 100vh;
+    box-sizing: border-box;
+
+}
+
+.container{
+    text-align: center;
+    margin: 10px auto;
+    padding: 30px;
+    background-color: rgba(30, 1, 82, 0.822);
+    color: aliceblue;
+    border-radius: 8px;
+    border: 1px solid rgba(17, 1, 46, 0.822);
+    box-sizing: border-box;
+
+}
+
+.cover{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    border-radius: 8px;
+    box-sizing: border-box;
+
+}
+
+
+.description h2{
+    font-size: 15px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+.description p{
+    font-size: 15px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+
+}
+
+.description h2, p{
+    
+    padding:7px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+
+}
+
+
+.bar{
+    
+    height: 7px;
+    border: 1px solid rgb(196, 195, 195);
+    border-radius: 5px;
+    display: flex;
+    padding: 1px;
+    align-items: center;
+    justify-content: flex-start;
+    box-sizing: border-box;
+
+}
+   
+progress{
+    
+    height:7px;
+    width: 0;
+    box-sizing: border-box;
+    
+}
+
+.point{
+    width: 14px;
+    height: 14px;
+    background-color: rgb(196, 195, 195);
+    border-radius: 50%;
+    margin-left: -10px;
+    box-sizing: border-box;
+
+}
+
+.time{
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    box-sizing: border-box;
+
+}
+
+
+
+.player{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-sizing: border-box;
+
+}
+
+.btn{
+    width: 20px;
+    cursor: pointer;
+    box-sizing: border-box;
+
+}
+
+.btn-pause{
+    display: none;
+    box-sizing: border-box;
+
+}
+
+.big{
+    width:35px;
+    box-sizing: border-box;
+}
