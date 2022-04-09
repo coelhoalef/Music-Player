@@ -2,10 +2,9 @@ let musics = [
     { title: 'Cavemen of the Future', artist: 'Joel Cummins, Andy Farag', src: 'songs/Cavemen of the Future - Joel Cummins, Andy Farag.mp3', img:'img/Cavemen of the Future.jpg'},
     { title: 'Bite Me', artist: 'NEFFEX', src: 'songs/Bite Me (Instrumental) - NEFFEX.mp3', img:'img/Bite Me.jpg'},
     { title: 'BSC State of Mind', artist: 'Squadda B', src: 'songs/BSC State of Mind - Squadda B.mp3', img:'img/BSC State of Mind.jpg'},
-    { title: 'Dont Wanna Let Myself Down', artist: 'NEFFEX', src: 'songs/Dont Wanna Let Myself Down (Instrumental) - NEFFEX.mp3', img:'img/Dont Wanna Let Myself Down.jpg'},
+    { title: 'Dont Let Me Down', artist: 'NEFFEX', src: 'songs/Dont Wanna Let Myself Down (Instrumental) - NEFFEX.mp3', img:'img/Dont Wanna Let Myself Down.jpg'},
     { title: 'Early Oceans', artist: 'Freedom Trail Studio', src: 'songs/Early Oceans - Freedom Trail Studio.mp3', img:'img/Early Oceans.jpg'},
-   
-    { title: 'Hows It Supposed to Feel', artist: 'NEFFEX', src: 'songs/Hows It Supposed to Feel (Instrumental) - NEFFEX.mp3', img:'img/Hows It Supposed to Feel.jpg'},
+    { title: 'Feelings', artist: 'NEFFEX', src: 'songs/Hows It Supposed to Feel (Instrumental) - NEFFEX.mp3', img:'img/Hows It Supposed to Feel.jpg'},
     { title: 'Worth It', artist: 'NEFFEX', src: 'songs/Its Only Worth It if You Work for It (Instrumental) - NEFFEX.mp3', img:'img/Its Only Worth It if You Work for It.jpg'},
     { title: 'Sailing', artist: 'Telecasted', src: 'songs/Sailing - Telecasted.mp3', img:'img/Sailing.jpg'},
     { title: 'Tell Me That I Cant', artist: 'NEFFEX', src: 'songs/Tell Me That I Cant - NEFFEX.mp3', img:'img/Tell Me That I Cant.jpg'},
